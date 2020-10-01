@@ -7,19 +7,15 @@ Team Members:
 2. <teamMember2>
 3. ...
   
-## To run this project, run following commands
+## Problem Statement
 
-**Note: Mention all the commands/steps to run this project, here**
-
-### `command 1`
-
-Command Descriprion
+**Note: Describe problem statement provided to you, here**
 ...
 ...
 
-### `command 2`
+## Solution
 
-Command Descriprion
+**Note: Describe your solution, here**
 ...
 ...
 
@@ -46,6 +42,22 @@ Command Descriprion
 
 Mention the video link containing demo of the project here.
 To see the demo, check out : https://reactjs.org/.
+
+## To run this project, run following commands
+
+**Note: Mention all the commands/steps to run this project, here**
+
+### `command 1`
+
+Command Descriprion
+...
+...
+
+### `command 2`
+
+Command Descriprion
+...
+...
 
 ### Mention Any other details here:
 

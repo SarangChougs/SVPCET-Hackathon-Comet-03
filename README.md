@@ -9,7 +9,7 @@ Team Members:
   
 ## To run this project, run following commands
 
-In the project directory, you can run:
+**Note: Mention all the commands/steps to run this project, here**
 
 ### `command 1`
 
@@ -31,7 +31,7 @@ Command Descriprion
 
 ## Problem Faced
 
-**Note: Describe various problems faced during the design and development of the project**
+**Note: Describe various problems faced during the design and development of the project, here**
 
 ...
 ...
@@ -45,7 +45,7 @@ Command Descriprion
 ### Video Link
 
 Mention the video link containing demo of the project here.
-To see the demo, check out the [Video](https://reactjs.org/).
+To see the demo, check out : https://reactjs.org/.
 
 ### Mention Any other details here:
 

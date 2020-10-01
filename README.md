@@ -10,18 +10,21 @@ Team Members:
 ## Problem Statement
 
 **Note: Describe problem statement provided to you, here**
+
 ...
 ...
 
 ## Solution
 
 **Note: Describe your solution, here**
+
 ...
 ...
 
 ## Project Description
 
 **Note: Describe the project structure and all other details, here.**
+
 ...
 ...
 
@@ -38,10 +41,10 @@ Team Members:
 ...
 ...
 
-### Video Link
+## Video Link
 
 Mention the video link containing demo of the project here.
-To see the demo, check out : https://reactjs.org/.
+(example -To see the demo, check out : https://reactjs.org/.)
 
 ## To run this project, run following commands
 
@@ -59,13 +62,15 @@ Command Descriprion
 ...
 ...
 
-### Mention Any other details here:
+## Mention Any other details here:
 
 ...
 ...
 
 
-### Mention all the references used in the project here
+## References
+
+**Note: Mention all the references used in the project her**
 
 **Example :**
 Reference 1 : https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
